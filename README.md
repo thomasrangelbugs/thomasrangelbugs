@@ -19,4 +19,5 @@ HTML • CSS • JavaScript • TypeScript • Java • Kotlin • Dart • Netl
 ## Contato
 
 LinkedIn: linkedin.com/in/thomas-rangel-bugs-013992302
+
 Portfólio/Projetos: github.com/thomasrangelbugs
