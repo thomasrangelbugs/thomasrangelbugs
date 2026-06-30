@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou Thomas Rangel Bugs 👋
 
-<!--
-**thomasrangelbugs/thomasrangelbugs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor e estudante de Engenharia de Software, com experiência em projetos web, Java, JavaScript, TypeScript, interfaces responsivas e soluções digitais voltadas para usabilidade, automação e presença digital.
 
-Here are some ideas to get you started:
+Atualmente desenvolvo projetos próprios e acadêmicos, criando sites, sistemas web, jogos, ferramentas comerciais e aplicações com foco em experiência do usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+HTML • CSS • JavaScript • TypeScript • Java • Kotlin • Dart • Netlify • GitHub
+
+## Projetos em destaque
+
+* CasaClima — aplicação web de organização pessoal e residencial.
+* Zenith Academia — site institucional responsivo para academia.
+* Sorteador Luxus — ferramenta web para sorteios promocionais.
+* Thor Games — hub web de jogos retrô.
+* Cadastrachat — sistema para cadastro de currículos.
+
+## Contato
+
+LinkedIn: linkedin.com/in/thomas-rangel-bugs-013992302
+Portfólio/Projetos: github.com/thomasrangelbugs
